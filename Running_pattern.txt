@@ -1,0 +1,5 @@
+1. word_enum_mapper
+2. doc_count_mapper
+3. indexer_mapper
+4. query_mapper
+5. article_data_mapper
